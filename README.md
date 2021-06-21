@@ -15,7 +15,7 @@ heroku link is https://mighty-earth-48217.herokuapp.com/products
 
 Now git  repository my project is command ,  git push heroku main  and creating my site.
 
-#Finally deploy my heroku site link is ...
+#Finally deploy my heroku site link is https://mighty-earth-48217.herokuapp.com
 
 
 
